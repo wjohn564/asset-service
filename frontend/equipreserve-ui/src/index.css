@@ -1,0 +1,14 @@
+html, body, #root {
+    height: 100%;
+    margin: 0;
+}
+#root {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+h1 { text-align: center; margin: 0 0 1rem; }
