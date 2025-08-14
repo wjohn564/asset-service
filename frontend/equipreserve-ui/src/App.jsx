@@ -27,7 +27,7 @@ export default function App() {
 
     return (
         <div style={{maxWidth: 840, margin: "2rem auto", fontFamily: "system-ui"}}>
-            <h1>EquipReserve — Search Function</h1>
+            <h1>EquipReserve Search Function</h1>
 
             <div style={{display: "flex", gap: 8, marginBottom: 12}}>
                 <input
